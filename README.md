@@ -16,6 +16,8 @@ This is a simple web project, deplioyment can be on any web server or even local
 
 ## How to contribute
 
+Please fork this repository and then issue Pull Request for review.
+
 ## Copyright
 
 Git.Training
