@@ -16,4 +16,6 @@ This is a simple web project, deplioyment can be on any web server or even local
 
 ## How to contribute
 
+## Copyright
 
+Git.Training
